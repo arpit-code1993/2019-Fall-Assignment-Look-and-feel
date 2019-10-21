@@ -1,0 +1,53 @@
+<html>
+<head>
+
+<link rel="stylesheet" href="css/theme.css">
+</head>
+
+<body>
+
+<h2>"Meet The Team"</h2>
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Haritha Thiagu Kumar</h2>
+        <p class="title">Web developer</p>
+        <p>I am a Fall 2019 student pursuing my Masters in BAIS. I was involved in building web pages.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Arpit Gupta</h2>
+        <p class="title">Art Director</p>
+        <p>Idea behind the project.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>Vignesh Kumar</h2>
+        <p class="title">Lazy</p>
+        <p>Not did much as usual.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
